@@ -24,7 +24,7 @@ const weapons = [
 ];
 const monsters = [
   {
-    name: "slime",
+    name: "gelatinous ball",
     level: 2,
     health: 15
   },
